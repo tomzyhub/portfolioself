@@ -1,0 +1,18 @@
+:root{
+    --black:#000;
+    --Red: red;
+}
+
+p{
+    color:var(--Red);
+}
+
+h1{
+    color:var(--black);
+}
+
+p,h1{
+    margin: 5px;
+    padding: 5px;
+    align-items: center;
+}
